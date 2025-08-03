@@ -1,0 +1,17 @@
+# 필수 패키지들
+supabase
+pinecone
+openai
+sentence-transformers
+pandas
+numpy
+tiktoken
+python-dotenv
+logging
+streamlit
+
+# 선택적 패키지들 (개발/테스트용)
+pytest
+jupyter
+matplotlib
+seaborn
